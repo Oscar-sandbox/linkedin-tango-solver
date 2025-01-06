@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Jan  4 02:20:50 2025
-
 @author: oscar
 """
 from pathlib import Path
