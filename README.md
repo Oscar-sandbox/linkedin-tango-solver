@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/portada.png" width=100% />
+  <img src="assets/portada2.png" width=100% />
 </p>
 
 ![License](https://img.shields.io/github/license/Oscar-sandbox/linkedin-tango-solver)
